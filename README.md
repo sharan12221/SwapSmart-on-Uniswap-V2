@@ -17,9 +17,4 @@ Welcome to the Uniswap Token Exchange Learning App, a decentralized application 
 
 - **Decentralized Finance Concepts:** Explore key concepts in decentralized finance, including liquidity pools, automated market makers (AMMs), and the Uniswap protocol.
 
-- **Hands-On Development:** Engage in a practical learning experience by contributing to the codebase, experimenting with smart contract interactions, and gaining insights into decentralized application development.
-
-**Disclaimer:**
-This project is strictly intended for educational purposes. It is not meant for deployment in a production environment. Users are encouraged to explore, experiment, and learn from the codebase, contributing to the vibrant ecosystem of decentralized technologies.
-
 Start your journey into decentralized finance with the SwapSmart-on-Uniswap-V2 Learning App. Happy coding!"
