@@ -2,10 +2,8 @@
 This is the Decentralized Exchange Platform on uniswap v2 using Ether.Js
 
 
-Certainly! Here's a more focused description based on your requirements:
-
 **About Section:**
-"**Uniswap Token Exchange Learning App**
+"**SwapSmart-on-Uniswap-V2 Learning App**
 
 Welcome to the Uniswap Token Exchange Learning App, a decentralized application built using Ether.js and the Uniswap Router V2. This project is designed exclusively for educational purposes, providing a hands-on experience for developers and enthusiasts interested in decentralized finance (DeFi) and blockchain technology.
 
@@ -24,4 +22,4 @@ Welcome to the Uniswap Token Exchange Learning App, a decentralized application 
 **Disclaimer:**
 This project is strictly intended for educational purposes. It is not meant for deployment in a production environment. Users are encouraged to explore, experiment, and learn from the codebase, contributing to the vibrant ecosystem of decentralized technologies.
 
-Start your journey into decentralized finance with the Uniswap Token Exchange Learning App. Happy coding!"
+Start your journey into decentralized finance with the SwapSmart-on-Uniswap-V2 Learning App. Happy coding!"
