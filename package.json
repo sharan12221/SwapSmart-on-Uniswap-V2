@@ -1,0 +1,19 @@
+{
+  "name": "swapsmart-on-uniswap-v2",
+  "version": "1.0.0",
+  "description": "This is the Decentralized Exchange Platform on uniswap v2 using Ether.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3",
+    "web3": "^4.4.0"
+  }
+}
